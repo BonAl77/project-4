@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2? family= Caveat & family= DynaPuff & family= Manrope:wght@700 & family= Rampart+One & family= Rubik+Iso & display= менять');
+* {
+margin: 0;
+padding: 0;
+}
+nav {
+    width: 1920px;
+    height: 72px;
+    margin: 0 auto;
+    position: absolute;
+    left: 0;
+    display: block;
+}
+
+.first__logotype {
+    margin-left: 405px;
+    margin-top: 22px;
+    height: 28px;
+    width: 105px;
+    position: absolute;
+    }
+ul { 
+ display: block;
+ position: absolute;
+ width: 344px;
+ height: 20;
+ left: 542px;
+ top: 26px;
+ list-style: none;
+}
+ul li {
+    float: left;
+}
+ul li a {
+padding: 12px;
+font-size: 14px;
+text-decoration: none;
+font-feature-settings: "liga" off;
+font-style: normal;
+color: #000;
+}
+.vector {
+position: absolute;
+left: 1233px;
+top: 16px;
+width: 135px;
+height: 40px;
+}
+.vector1 {
+    position: absolute;
+    left: 1274.04px;
+    width: 84.78px;
+    top: 33.05px;
+    height: 17.03px;  
+  }
+  .vectorA {
+    position: absolute;
+    left: 1380px;
+    top: 16.87px;
+    width: 133.26px;
+    height: 38.26px; 
+  }
+  .group {
+position: absolute;
+width: 99.52px;
+height: 25.05px;
+left: 1398px;
+top: 24.44px;
+  }
+  .Text {
+    position: absolute;
+    width: 730px;
+    height: 196px;
+    top: 240px;
+    left: 405px;
+  }
+.button {
+  position: absolute;
+  width: 196px;
+  height: 62px;
+  left: 405px;
+  top: 468px;
+}
+.background {
+  position: absolute;
+  top: -131px;
+  left: 0px;
+  height: 1000px;
+  width: 1919px;
+  background: rgba(242, 247, 255, 0.7);
+  backdrop-filter: blur (50px);
+}
+.band1 {
+  position: absolute;
+  top: 609px;
+  width: 558px;
+  height: 156px;
+  left: -20px;
+}
+.band2 {
+position: absolute;
+width: 558px;
+height: 154px;
+left: -222px;
+right: 1583px;
+top: 720px;
+}
+.band3 {
+  position: absolute;
+  width: 558px;
+  height: 154px;
+  left: 1384px;
+  top: 351px;
+}
+.band4 {
+  position: absolute;
+  width: 814px;
+  height: 187px;
+  left: 1170px;
+  top: 430px;
+}
+.band5 {
+  position: absolute;
+  width: 558px;
+  height: 155px;
+  left: 1745px;
+  top: 474px;
+}
+.iPhone {
+  position: absolute;
+  width: 320px;
+  height: 640px;
+  left: 1180px;
+  top: 168px;
+}
+.Screen {
+  position: absolute;
+  width: 279px;
+  height: 604px;
+  left: 1201px;
+  top: 187px;
+}
