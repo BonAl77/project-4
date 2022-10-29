@@ -232,9 +232,112 @@ animation-direction:  reverse;
    height: 436px;
    left: 0px;
    top: 1992px;
-  animation-direction:  reverse;
+  animation-direction:  normal;
 	animation-duration: 6s;
 	animation-name: move;
 	animation-iteration-count: 1;
 	animation-timing-function: linear;
   }
+  .first_content {
+    position: absolute;
+    width: 540px;
+    height: 128px;
+    top: 2658px;
+    left: 405px;
+    font: 'Manrope';
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 64px;
+  }
+  .second_content {
+    position: absolute;
+    width: 540px;
+    height: 32px;
+    top: 2794px;
+    left: 405px;
+    font: 'Manrope';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+  }
+  .BG {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    top: 2972px;
+    left: 405px;
+    background-color: #F1E4FF;
+   } 
+   .Mobile {
+    position: absolute;
+    top: 3028px;
+    left: 495px;
+    width: 360px;
+    height: 484px;
+   }
+   .third_content {
+    position: absolute;
+    width: 444px;
+    height: 54px;
+    top: 3088px;
+    left: 1023px;
+    font: 'Manrope';
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 54px;
+  }
+  .fourth_content {
+    position: absolute;
+    width: 444px;
+    height: 160px;
+    top: 3174px;
+    left: 1023px;
+    font: 'Manrope';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px; 
+  }
+  .button2 {
+    position: absolute;
+    width: 111px;
+    height: 30px;
+    top: 3366px;
+    left: 1023px;
+  }
+  .vector2 {
+    position: absolute;
+    width: 22px;
+    height: 14px;
+    top: 3366px;
+    left: 1139px;
+  
+  }
+.fifth_content {
+  position: absolute;
+  width: 540px;
+  height: 108px;
+  top: 3640px;
+  left: 405px;
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 54px;
+}
+.sixth_content {
+  position: absolute;
+  width: 540px;
+  height: 96px;
+  top: 3646px;
+  left: 975px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 32px;
+}
+.Image {
+  position: absolute;
+  width: 1110px;
+  height: 400px;
+  left: 405px;
+  top: 3796px;
+  border-radius: 8px;
+}
+
