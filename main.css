@@ -140,3 +140,101 @@ top: 720px;
   left: 1201px;
   top: 187px;
 }
+.second__logotype {
+  position: absolute;
+width: 891px;
+height: 28px;
+left: 515px;
+top: 923px;
+}
+.text {
+position: absolute;
+width: 1110px;
+height: 544px;
+left: 405px;
+top: 1072px;
+}
+.background2 {
+  position: absolute;
+  width: 1920px;
+  height: 896px;  
+  top: 1680px;
+  background-color: #D5FAFC;
+}
+.block8 {
+  position: absolute;
+  opacity: 0.3;
+width: 142.37px;
+height: 120px;
+top: 1744px;
+left: 405px;
+}
+.text2 {
+  position: absolute;
+  width: 445px;
+  height: 168px;
+  left: 500px;
+  top: 1800px;
+}
+@keyframes move {
+	from {
+		margin-left: 0;
+	}
+	to {
+		margin-left: 975px;
+	}
+}
+.text3 {
+  position: absolute;
+  width: 445px;
+  height: 340px;
+  left: 975px;
+  top: 1848px;
+animation-direction:  reverse;
+	animation-duration: 6s;
+	animation-name: move;
+	animation-iteration-count: 1;
+	animation-timing-function: linear;
+}
+
+@keyframes move {
+	from {
+		margin-left: 0;
+	}
+	to {
+		margin-left: 975px;
+	}
+}
+.text4 {
+  position: absolute;
+  width: 350px;
+  height: 276px;
+  left: 975px;
+  top: 2220px;
+  animation-direction:  reverse;
+	animation-duration: 6s;
+	animation-name: move;
+	animation-iteration-count: 1;
+	animation-timing-function: linear;
+  
+  } 
+     @keyframes move {
+	from {
+		margin-left: 0;
+	}
+	to {
+		margin-left: 595px;
+	}
+}
+  .text5 {
+    position: absolute;
+    width: 350px;
+   height: 436px;
+   left: 0px;
+   top: 1992px;
+  animation-direction:  reverse;
+	animation-duration: 6s;
+	animation-name: move;
+	animation-iteration-count: 1;
+	animation-timing-function: linear;
+  }
