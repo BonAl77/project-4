@@ -46,13 +46,7 @@ top: 16px;
 width: 135px;
 height: 40px;
 }
-.vector1 {
-    position: absolute;
-    left: 1274.04px;
-    width: 84.78px;
-    top: 33.05px;
-    height: 17.03px;  
-  }
+
   .vectorA {
     position: absolute;
     left: 1380px;
@@ -237,6 +231,7 @@ animation-direction:  reverse;
 	animation-name: move;
 	animation-iteration-count: 1;
 	animation-timing-function: linear;
+  animation-fill-mode: both;
   }
   .first_content {
     position: absolute;
@@ -260,6 +255,13 @@ animation-direction:  reverse;
     font-size: 18px;
     line-height: 32px;
   }
+  .Counts {
+    position: absolute;
+    width: 540px;
+    height: 172px;
+    top: 2656px;
+    left: 975px;
+  }
   .BG {
     position: absolute;
     width: 540px;
@@ -270,8 +272,8 @@ animation-direction:  reverse;
    } 
    .Mobile {
     position: absolute;
-    top: 3028px;
-    left: 495px;
+    top: 3014px;
+    left: 485px;
     width: 360px;
     height: 484px;
    }
@@ -340,4 +342,107 @@ animation-direction:  reverse;
   top: 3796px;
   border-radius: 8px;
 }
-
+.background3 {
+  position: absolute;
+  width: 1920px;
+  height: 491px;
+  top: 4260px;
+  background-color: #2EC5CE;
+}
+.heading {
+  position: absolute;
+  width: 540px;
+  height: 128px;
+  left: 405px;
+  top: 4328px;
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 64px;
+}
+.first_heading {
+  position: absolute;
+  width: 540px;
+  height: 96px;
+  left: 405px;
+  top: 4464px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 32px;
+}
+.text6 {
+  position: absolute;
+  width: 101px;
+  height: 28px;
+  left: 405px;
+  top: 4608px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+}
+.vector_second {
+  position: absolute;
+  width: 282px;
+  height: 76px;
+  left: 405px;
+  top: 4608px;
+}
+.vector_third {
+  position: absolute;
+  width: 133.26px;
+  height: 38.26px;
+  left: 555.87px;
+  top: 4608px;
+}
+.iPhone_1 {
+  position: absolute;
+  width: 232px;
+  height: 371px;
+  top: 4260px;
+  left: 1019px;
+}
+.iPhone_2 {
+  position: absolute;
+  width: 232px;
+  height: 403px;
+  top: 4348px;
+  left: 1283px;
+}
+.footer_BG {
+  position: absolute;
+  width: 1920px;
+  height: 280px;
+  top: 4751px;
+  background: #0B0D17;
+}
+.text7 {
+position: absolute;
+height: 28px;
+width: 160px;
+left: 1355px;
+top: 4807px;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+color: #D9DBE1;
+}
+.vector_fourth {
+position: absolute;
+height: 40px;
+width: 135px;
+left: 1355px;
+top: 4851px;
+}
+.vector_fifth {
+position: absolute;
+height: 40px;
+width: 135px;
+left: 1355px;
+top: 4907px;
+}
+.footer_menu {
+  position: absolute;
+  height: 168px;
+width: 475px;
+left: 405px;
+top: 4807px;
+}
